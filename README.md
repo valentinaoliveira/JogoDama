@@ -35,4 +35,4 @@ Este é um jogo de Damas implementado utilizando Python e a biblioteca Tkinter p
 Julia de Lima e Valentina Leite
 
 ## Link do vídeo
-<URL_DO_VIDEO_SE_EXISTIR>
+https://youtu.be/BJUKdwCYCJk
